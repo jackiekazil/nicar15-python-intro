@@ -36,6 +36,19 @@ import csv
 help(csv)
 ```
 
+## Installing libraries
+
+Google and see what other people use or what makes sense to you - use that.
+
+If you try to install the [requests library](http://docs.python-requests.org/en/latest/):
+
+`pip install requests`
+
+If you get a permissions error, try...
+
+`sudo pip install requests`
+
+
 ## Running scripts
 
 From inside the csv folder:
