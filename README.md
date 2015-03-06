@@ -26,7 +26,7 @@ Read [How to Ask Questions](http://www.propublica.org/nerds/item/how-to-ask-prog
 * Type - `type('Joker')` OR `type(5)` OR `type(['Joker', 'Simon', 'Ellie', 'Lishka', 'Fido'])`
 * Dir - `dir('Joker')` OR `dir(['Joker', 'Simon', 'Ellie', 'Lishka', 'Fido'])`
 * Help -
-    ```
+    ```python
     import csv
     help(csv)
     ```
