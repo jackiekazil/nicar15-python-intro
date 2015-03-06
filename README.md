@@ -10,6 +10,27 @@ These are materials for getting started with Python. Learning things is hard. Pl
 
 Read [How to Ask Questions](http://www.propublica.org/nerds/item/how-to-ask-programming-questions), before posting your questions online. It covers ways to help frame your questions so others can best help you.
 
+## Launching Your Python interpretor
+
+On a PC
+* Search for "Python".
+* Select the top choice.
+
+On a Mac
+* Launch Terminal
+* Type `python`
+
+
+Your Python interpretor prompt, looks like this:
+
+`>>>`
+
+Your terminal prompt, looks like this:
+
+* PC - `>`
+* Mac/Linux - `$`
+
+
 ## Basic Data Structures
 
 | Tables        | Are           |
@@ -48,6 +69,7 @@ If you get a permissions error, try...
 
 `sudo pip install requests`
 
+If you want to see all the libraries that are available, visit [Pypi](Pypi.python.org)
 
 ## Running scripts
 
