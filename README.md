@@ -23,16 +23,30 @@ Read [How to Ask Questions](http://www.propublica.org/nerds/item/how-to-ask-prog
 
 ## Helpful tools
 
-* Type -
-`type('Joker')`
-`type(5)`
-`type(['Joker', 'Simon', 'Ellie', 'Lishka', 'Fido'])`
-* Dir -
-`dir('Joker')`
-`dir(['Joker', 'Simon', 'Ellie', 'Lishka', 'Fido'])`
-* Help -
+* Type - What data type?
+  * `type('Joker')`
+  * `type(5)`
+  * `type(['Joker', 'Simon', 'Ellie', 'Lishka', 'Fido'])`
+* Dir - What are some of things I can do with this thing?
+  * `dir('Joker')`
+  * `dir(['Joker', 'Simon', 'Ellie', 'Lishka', 'Fido'])`
+* Help - Tell me all about this thing
 ```python
 import csv
 help(csv)
 ```
+
+## Running scripts
+
+From inside the csv folder:
+* `python import_csv_data.py`
+
+From inside the excel folder:
+* `python parse_excel.py`
+
+Lastly, here is a great repo of [web scrapers](https://github.com/ireapps/first-web-scraper).
+
+Try running this [Boone County Arrest scrapers](https://github.com/ireapps/first-web-scraper/tree/master/scrapers/crime).
+
+
 
