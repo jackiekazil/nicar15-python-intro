@@ -1,4 +1,5 @@
-# Intro to Python at NICAR - A one hour session
+# Intro to Python at NICAR
+### A one hour session
 
 These are materials for getting started with Python. Learning things is hard. Please reach out before throwing in the towel.
 
@@ -22,6 +23,11 @@ Read [How to Ask Questions](http://www.propublica.org/nerds/item/how-to-ask-prog
 
 ## Helpful tools
 
-* Type
-* Dir
-* Help
+* Type - `type('Joker')` OR `type(5)` OR `type(['Joker', 'Simon', 'Ellie', 'Lishka', 'Fido'])`
+* Dir - `dir('Joker')` OR `dir(['Joker', 'Simon', 'Ellie', 'Lishka', 'Fido'])`
+* Help -
+    ```
+    import csv
+    help(csv)
+    ```
+
